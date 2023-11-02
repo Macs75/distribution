@@ -34,7 +34,7 @@
 
   # Single dtb settings
     TRUST_LABEL="trust"
-    DEVICE_DTB=("rk3588s-orangepi-5")
+    DEVICE_DTB=("rk3588s-orangepi-5" "rk3588s-coolpi-4b")
     UBOOT_DTB="${DEVICE_DTB[0]}"
     
   # Multi dtb settings
